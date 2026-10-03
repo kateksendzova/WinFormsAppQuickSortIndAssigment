@@ -1,0 +1,16 @@
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\bin\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.exe
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\bin\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.deps.json
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\bin\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.runtimeconfig.json
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\bin\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.dll
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\bin\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.pdb
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.Form1.resources
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.csproj.GenerateResource.cache
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.AssemblyInfoInputs.cache
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.AssemblyInfo.cs
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.csproj.CoreCompileInputs.cache
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.dll
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\refint\WinFormsAppQuickSortIndAssigment.dll
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.pdb
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\WinFormsAppQuickSortIndAssigment.genruntimeconfig.cache
+D:\useful files\university\2 курс\1_term\ASD\lab_2\WinFormsAppQuickSortIndAssigment\obj\Debug\net8.0-windows\ref\WinFormsAppQuickSortIndAssigment.dll
